@@ -1,0 +1,164 @@
+.mySlides {display:none;}
+
+.container .btn {
+  position: absolute;
+  top: 35%;
+  left: 4%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+.container .btn1 {
+  position: absolute;
+  top: 35%;
+  left: 97%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+.container .btn1:hover {
+  background-color: black;
+}
+
+
+.column{
+    width: 350px;
+    height: 450px;
+    border:1px solid black;
+    float: left;
+    margin: 3px;
+    margin-top: 1px;
+    margin-left: 10px; 
+
+}
+.column img{
+    width: 98%;
+    height: 73%;
+
+}
+.column-btn{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.column1{
+    width: 350px;
+    height: 150px;
+    border:1px solid black;
+    float: left;
+    margin: 3px;
+    margin-top: 1px;
+    margin-left: 10px; 
+}
+.column1-btn{
+    background-color: #2196F3; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 12px;
+  margin-left: 104px
+}
+
+.column1 a img {
+    width: 24%;
+    padding-left: 8px;
+}
+
+
+
+
+
+.column4{
+    width: 97%;
+    height: 400px;
+    border:1px solid black;
+    float: left;
+    margin: 3px;
+    margin-top: 1px;
+    margin-left: 10px; 
+}
+
+.column4 img{
+    width: 203px;
+    height: 296px;
+
+}
+
+
+.column5{
+    width: 97%;
+    height: 316px;
+    border:1px solid black;
+    float: left;
+    margin: 3px;
+    margin-top: 1px;
+    margin-left: 10px; 
+}
+
+
+.column7{
+    width: 77%;
+    height: 325px;
+    border:1px solid black;
+    float: left;
+    margin: 3px;
+    margin-top: 1px;
+    margin-left: 10px; 
+}
+
+
+.column7 a img{
+  height:265px;
+
+}
+
+
+.column8{
+   width: 97%;
+    height: 150px;
+    border:1px solid black;
+    float: left;
+    margin: 3px;
+    margin-top: 1px;
+    margin-left: 10px; 
+}
+
+.column8-btn{
+
+  background-color: #2196F3;
+  border: none;
+  color: white;
+  padding: 13px 92px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
