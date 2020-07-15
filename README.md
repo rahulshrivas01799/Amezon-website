@@ -1,0 +1,3 @@
+# Amezon-website
+Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence
+and it will take around 2 wwek to complete this website so do not copy or paste thanku.....................
